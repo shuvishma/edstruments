@@ -76,7 +76,7 @@ const TaskList = () => {
           className="bg-blue-500 px-6 py-2 rounded-md text-white"
           onClick={handleLogout}
         >
-          Logout``
+          Logout
         </button>
       </div>
 
